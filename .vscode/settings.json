@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "8958.C": "cpp"
+    "8958.C": "cpp",
+    "iostream": "cpp"
   }
 }
