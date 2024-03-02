@@ -3,5 +3,6 @@
     "8958.C": "cpp",
     "iostream": "cpp",
     "vector": "cpp"
-  }
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
