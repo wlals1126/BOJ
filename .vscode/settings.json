@@ -3,7 +3,8 @@
     "8958.C": "cpp",
     "iostream": "cpp",
     "vector": "cpp",
-    "unordered_map": "cpp"
+    "unordered_map": "cpp",
+    "cmath": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
