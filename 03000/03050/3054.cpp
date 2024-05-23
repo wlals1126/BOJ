@@ -27,11 +27,7 @@ int main() {
         for (int j = 0; j < 8; j++) {
             int y = 2 + arr1[j];
             int x = i + arr2[j];
-<<<<<<< Updated upstream
-            arr[y][x] = "#"; 
-=======
             arr[x][y] = "#"; 
->>>>>>> Stashed changes
         }
     }
 
@@ -39,11 +35,7 @@ int main() {
         for (int j = 0; j < 8; j++) {
             int y = 2 + arr1[j];
             int x = i + arr2[j];
-<<<<<<< Updated upstream
-            arr[y][x] = "*";
-=======
             arr[x][y] = "*";
->>>>>>> Stashed changes
         }
     }
     for (int i = 0; i < 5; i++) {
@@ -54,8 +46,4 @@ int main() {
     }
 
     return 0;
-<<<<<<< Updated upstream
-}피터팬 프레임
-=======
 }
->>>>>>> Stashed changes
