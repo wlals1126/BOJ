@@ -26,7 +26,11 @@ int main() {
         if (i % 2 == 0) {
             maxW = max(maxW, arr[i]);
         } else {
+<<<<<<< Updated upstream
             maxH = max(maxH, arr[i]);   
+=======
+            maxH = max(maxH, arr[i]);
+>>>>>>> Stashed changes
         }
     }
 

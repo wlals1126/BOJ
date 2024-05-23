@@ -34,6 +34,10 @@ int main() {
     }
 
     cout << min(even, odd) << endl;
+<<<<<<< Updated upstream
     
     return 0;
 }
+=======
+}
+>>>>>>> Stashed changes
